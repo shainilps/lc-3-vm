@@ -13,4 +13,4 @@ make all
 
 ```
 
-**haskell basd coming soon**
+**haskell based coming soon**
