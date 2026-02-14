@@ -12,5 +12,3 @@ make all
 ./main test/2048.obj
 
 ```
-
-**haskell based coming soon**
